@@ -317,10 +317,10 @@ msgid "View the current strongSwan configuration file."
 msgstr "查看当前 strongSwan 配置文件。"
 
 msgid "Zone"
-msgstr "区域"
+msgstr "防火墙区域"
 
 msgid "Firewall zone that has to match the defined firewall zone"
-msgstr "必须与定义的防火墙区域匹配的防火墙区域"
+msgstr "需匹配的防火墙区域"
 
 msgid "Listening Interfaces"
 msgstr "监听接口"
@@ -332,7 +332,7 @@ msgid "Debug Level"
 msgstr "调试级别"
 
 msgid "Trace level: 0 is least verbose, 4 is most"
-msgstr "跟踪级别：0 是最不详细的，4 是最详细的"
+msgstr "跟踪级别：0 表示最简略，4 表示最详细"
 
 msgid "Install Virtual IP Interface"
 msgstr "安装虚拟 IP 接口"
