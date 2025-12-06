@@ -1,5 +1,5 @@
 {
-	"admin/services/natmap": {
+	"admin/system/natmap": {
 		"title": "NATMap",
 		"action": {
 			"type": "view",
